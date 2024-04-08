@@ -4,6 +4,8 @@
 
 With the `ovh` integration you can keep your current IP address in sync with your [OVH DynHost](https://docs.ovh.com/ie/en/domains/hosting_dynhost/)  hostname or domain.  
 
+Based on v2.1.0 from [GuilleGF](https://github.com/GuilleGF)
+
 To use the integration in your installation, add the following to your `configuration.yaml` file:
 
 #### Configuration variables:
